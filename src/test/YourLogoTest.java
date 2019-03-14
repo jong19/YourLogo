@@ -59,7 +59,6 @@ public class YourLogoTest extends TestConfig{
      
         // Website is launched. User is redirected to the Home page.
 
-		System.out.println("TEst Github only");
 
 
 		hp.is_in_home();
