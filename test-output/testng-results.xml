@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-03-13T11:40:44Z" name="Default suite" finished-at="2019-03-13T11:42:33Z" duration-ms="109531">
+    <groups>
+    </groups>
+    <test started-at="2019-03-13T11:40:44Z" name="Default test" finished-at="2019-03-13T11:42:33Z" duration-ms="109531">
+      <class name="test.YourLogoTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.YourLogoTest@7a675056]" started-at="2019-03-13T19:40:44Z" name="setup" finished-at="2019-03-13T19:40:58Z" duration-ms="14176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="register()[pri:1, instance:test.YourLogoTest@7a675056]" started-at="2019-03-13T19:40:58Z" name="register" finished-at="2019-03-13T19:41:36Z" duration-ms="38006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:2, instance:test.YourLogoTest@7a675056]" started-at="2019-03-13T19:41:36Z" name="login" data-provider="loginCredits" finished-at="2019-03-13T19:42:32Z" duration-ms="56437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dornetester22@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[F@GBDY%%FFD@21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.YourLogoTest@7a675056]" started-at="2019-03-13T19:42:32Z" name="closeBrowser" finished-at="2019-03-13T19:42:33Z" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.YourLogoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

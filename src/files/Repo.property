@@ -1,0 +1,10 @@
+#Thu Mar 14 14:16:28 SRET 2019
+path_chromeDriver=D\:\\NINZO\\Selenium__Webdriver\\chromedriver73\\chromedriver.exe
+path_repository=D\:\\NINZO\\RC_automation_tests2\\YourLogo\\src\\files\\Repo.property
+app_url=http\://automationpractice.com/index.php
+user_count=33
+path_extentReport=D\:\\NINZO\\RC_automation_tests2\\YourLogo\\src\\files\\reports.html
+user_prefix=dornetester
+email_suffix=@gmail.com
+path_excel=D\:\\NINZO\\RC_automation_tests2\\YourLogo\\src\\files\\user_credits.xlsx
+gmail_url=gmail.com
