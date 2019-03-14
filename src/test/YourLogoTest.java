@@ -59,7 +59,10 @@ public class YourLogoTest extends TestConfig{
      
         // Website is launched. User is redirected to the Home page.
 
-        hp.is_in_home();
+		System.out.println("TEst Github only");
+
+
+		hp.is_in_home();
         hp.goto_authentication();
         
         
@@ -105,7 +108,8 @@ public class YourLogoTest extends TestConfig{
         
         // user will logout and is redirected to Authentication page.
         ap.is_in_authentication();
-     
+
+
          
     }
     
